@@ -23,7 +23,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/discussion-question-project.git
+   git clone https://github.com/parbati-19/Discuss-Questions-web-project.git
 
 2. **Navigate to the Project directory**:
     ```terminal
